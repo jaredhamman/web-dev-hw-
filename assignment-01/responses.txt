@@ -1,0 +1,4 @@
+The web is interconnected pieces of information, how this differs from the intert is that internet is what connectes these individual  webs of inforrmation to eachother.
+The internet is a community of individual networks all sending and reciving information without one particular source controlling all of them.
+Directories are an effective way of organizing individual files and pieces of information into easy to follow paths, this helps keep these pieces of information strcutured and easier to follow.
+A VCS allows the abiility to trial changes and revert back if there's issues or other changes you would like to make. It allows a developer to visualize changes without applying or committing to them.
